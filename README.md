@@ -1,2 +1,3 @@
-# algo-part2-labs
-Laboratory works from Algorithmization and programming Part 2 subject
+# Лабораторні роботи з дисципліни "Алгоритми та структури даних"
+​
+## Виконала: Софія Романівна Корпало (ІР-11)
